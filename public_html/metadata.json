@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "en-US": "Show password when mouse over password fields."
+  },
+  "categories": [
+    "other"
+  ],
+  "version": {
+    "license": "MIT"
+  }
+}
