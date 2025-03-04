@@ -11,9 +11,9 @@ This extension will show you the password in plain text when cursor is over pass
 You can also change when to show password in options.
 
 # Installation
-Install from here: x
+Install from here: https://addons.mozilla.org/en-GB/firefox/addon/471ae3f875c443e48e1f/
 
-#Credits
+# Credits
 
 Plugin not developed by me, I just ported it to firefox
 
